@@ -3,7 +3,8 @@ that it stays around after a command window exits.  The utility also notifies al
 that the environment has changed, so that (for instance) the next command shell will show
 the change, as will any services that are restarted.
 
-Adapted from http://smartypeeps.blogspot.com/2006/12/windows-environment-variables.html
+Adapted from http://smartypeeps.blogspot.com/2006/12/windows-environment-variables.html.  The code has been converted
+to .Net, built in Visual Studio and running as a console application.
 
 See also http://support.microsoft.com/kb/104011
 
